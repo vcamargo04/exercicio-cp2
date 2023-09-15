@@ -13,5 +13,5 @@ export const listaProdutos =[
         id: 3,
         nome : 'Monitor',
         preco:950
-    }
+    },
 ]
